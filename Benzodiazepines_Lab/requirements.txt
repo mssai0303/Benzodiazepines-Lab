@@ -1,0 +1,10 @@
+# Python packages needed for this lab.
+# Install them into your RISE Anaconda environment with:
+#     pip install -r requirements.txt
+#
+# (On Windows, install NEURON with the .exe installer instead -- see
+#  INSTALL.txt -- then run:  pip install numpy matplotlib )
+
+neuron
+numpy
+matplotlib
