@@ -75,5 +75,5 @@ IF NOTHING RUNS / TROUBLESHOOTING
 * "Changing the number does nothing" -- make sure you SAVED main.py
   before running it.
 
-Read the .docx guide for the full explanation. Good luck!
+Read the .pdf guide for the full explanation. Good luck!
 ====================================================================
