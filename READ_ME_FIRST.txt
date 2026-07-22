@@ -8,7 +8,7 @@ Xanax) changes the firing of a brain cell. Don't worry if you've never
 coded before -- you only need to change ONE number and run the model.
 
 There is a full step-by-step guide in this folder called
-"Benzodiazepine_Student_Guide.docx" -- open that for the detailed
+"Benzodiazepine_Student_Guide.pdf" -- open that for the detailed
 explanation of everything. This text file is just the quick start.
 
 
